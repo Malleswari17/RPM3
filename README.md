@@ -7,7 +7,7 @@
 
 ***this italin bold :star_struck:***
 
-![np](https://i0.wp.com/khabardaaar.in/wp-content/uploads/2021/01/s.jpg?resize=640%2C372&ssl=1)
+![np](https://i.ytimg.com/vi/DDCWO9fmxlI/maxresdefault.jpg)
 
 
 s.no|name|roll

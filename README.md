@@ -12,8 +12,8 @@
 
 s.no|name|roll
 ----|----|----
-1.|nobiha|46
-2.|suzuka|17
+1.|nobiha :hand_over_mouth:|46
+2.|suzuka :nerd_face: |17
 
 1.list:raised_eyebrow:
 
